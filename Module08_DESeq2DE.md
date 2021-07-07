@@ -4,7 +4,6 @@ author: "UM Bioinformatics Core"
 date: "2021-07-07"
 output:
         html_document:
-            theme: readable
             toc: true
             toc_depth: 4
             toc_float: true

@@ -1,3 +1,18 @@
+---
+title: "Day 1 - Module 02: QC"
+author: "UM Bioinformatics Core"
+date: "`r Sys.Date()`"
+output:
+        html_document:
+            toc: true
+            toc_depth: 4
+            toc_float: true
+            number_sections: true
+            fig_caption: true
+            keep_md: true
+            markdown: GFM
+---
+
 # QC
 
 In this Quality Control (QC) module, we will learn:
