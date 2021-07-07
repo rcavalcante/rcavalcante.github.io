@@ -4,6 +4,7 @@ author: "UM Bioinformatics Core"
 date: "`r Sys.Date()`"
 output:
         html_document:
+            theme: readable
             toc: true
             toc_depth: 4
             toc_float: true
