@@ -3,7 +3,7 @@ title: "Day 1 - Module 02: QC"
 author: "UM Bioinformatics Core"
 output:
         html_document:
-            theme: readable
+            theme: paper
             toc: true
             toc_depth: 4
             toc_float: true

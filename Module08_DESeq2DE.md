@@ -3,7 +3,7 @@ title: "Day 2 - Module 08: Count normalizations and DESeq2 model fitting"
 author: "UM Bioinformatics Core"
 output:
         html_document:
-            theme: readable
+            theme: paper
             toc: true
             toc_depth: 4
             toc_float: true
