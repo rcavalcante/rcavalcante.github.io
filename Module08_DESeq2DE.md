@@ -4,6 +4,7 @@ author: "UM Bioinformatics Core"
 output:
         html_document:
             theme: paper
+            css: styles.css
             toc: true
             toc_depth: 4
             toc_float: true
