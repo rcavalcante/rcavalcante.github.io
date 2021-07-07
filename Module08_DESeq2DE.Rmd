@@ -11,6 +11,7 @@ output:
             fig_caption: true
             keep_md: true
             markdown: GFM
+            code_download: true
 ---
 
 <!--- Allow the page to be wider --->
