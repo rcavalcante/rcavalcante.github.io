@@ -1,7 +1,6 @@
 ---
 title: "Day 1 - Module 02: QC"
 author: "UM Bioinformatics Core"
-date: "`r Sys.Date()`"
 output:
         html_document:
             theme: readable
